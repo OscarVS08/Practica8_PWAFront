@@ -28,6 +28,7 @@ function Carousel() {
   );
 }
 
+//No esta quedando esto
 const API_URL = "https://pwabackend-ebd8eefghwhyhkcj.canadacentral-01.azurewebsites.net/api/tasks";
 
 function App() {
